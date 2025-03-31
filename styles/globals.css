@@ -27,7 +27,7 @@ main {
   -webkit-box-pack: center;
   justify-content: center;
   line-height: 0;
-  background-image: url(/bg.jpeg);
+  background-image: url(/demande/bg.jpeg);
   background-position: center top;
   background-size: cover;
   height: 100%;

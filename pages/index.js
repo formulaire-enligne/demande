@@ -12,11 +12,12 @@ export default function Home() {
           content="Enty uk with no stress. Enjoy your holidays."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/demande/favicon.ico" />
       </Head>
+      {/* User http://localhost:3000/demande to watch the site */}
       <main>
         <div className="img-container">
-          <Image src={"/flag.png"} width={90} height={55} alt="UK flag" />
+          <Image src={"/demande/flag.png"} width={90} height={55} alt="UK flag" />
         </div>
         <div className="backdrop"></div>
         <div className="content">
